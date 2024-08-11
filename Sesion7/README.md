@@ -1,0 +1,5 @@
+# Sesión 7
+
+## Ejemplos
+
+[BLOQUE_COMBINACIONAL_2.circ](BLOQUE_COMBINACIONAL_2.circ).
